@@ -6,3 +6,4 @@ export PATH=$PATH:$HADOOP_HOME/bin
 
 export HADOOP_CONF_DIR=/usr/local/hadoop/etc/hadoop
 
+set -o vi
